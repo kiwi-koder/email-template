@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "email-templates": "^4.0.1",
     "env2": "^2.2.0",
-    "nodemailer": "^4.6.5"
+    "handlebars": "^4.0.11",
+    "nodemailer": "^4.6.5",
+    "path": "^0.12.7"
   }
 }
